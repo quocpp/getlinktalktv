@@ -1,0 +1,6 @@
+http://talktv.vn/69
+[b'http://120.138.74.21:443/755326.flv?vkey=GauWxyHktxOops&uin=99999']
+http://talktv.vn/99
+[b'http://120.138.74.21:80/755306.flv?vkey=GauWxyHktxOops&uin=99999']
+http://talktv.vn/88
+[b'http://120.138.74.21:443/755308.flv?vkey=GauWxyHktxOops&uin=99999']
